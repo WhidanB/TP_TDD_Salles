@@ -1,0 +1,30 @@
+{
+  "rooms": [
+    {
+      "id": "a0f7",
+      "name": "Réunion 1",
+      "capacity": 12
+    },
+    {
+      "id": "f8ad",
+      "name": "Rez-de-chaussée",
+      "capacity": 7
+    }
+  ],
+  "reservations": [
+    {
+      "id": "3ab0",
+      "roomId": "a0f7",
+      "start": "2025-10-23T09:00:00.000Z",
+      "end": "2025-10-23T10:00:00.000Z",
+      "people": 11
+    },
+    {
+      "id": "4d0c",
+      "roomId": "f8ad",
+      "start": "2025-10-12T13:50:00.000Z",
+      "end": "2025-10-12T15:00:00.000Z",
+      "people": 3
+    }
+  ]
+}
